@@ -57,7 +57,7 @@
         "@storybook/addon-controls": "^7.2.1",
         "@storybook/addon-essentials": "^7.2.3",
         "@storybook/addon-links": "^7.4.0",
-        "@storybook/addons": "^7.2.3",
+        "@storybook/addons": "^7.4.0",
         "@storybook/react": "^7.1.1",
         "@testing-library/react": "^12.1.5",
         "@testing-library/user-event": "^14.4.3",
