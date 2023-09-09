@@ -2307,7 +2307,7 @@
     memoizerific "^1.11.3"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-controls@7.2.3", "@storybook/addon-controls@^7.2.1":
+"@storybook/addon-controls@7.2.3":
   version "7.2.3"
   resolved "https://registry.yarnpkg.com/@storybook/addon-controls/-/addon-controls-7.2.3.tgz#d9447b92d6f8ed19dcc64ee1b1d781d7d4a3203e"
   integrity sha512-e0Yro238/MJP+0pV9sZ/M8BWjabX9lesr03dhvYKLAEwKSbrtcPRTszkRYKlcY9GyUxOc2xji8cgEgq0TtJWNg==
@@ -2322,6 +2322,24 @@
     "@storybook/preview-api" "7.2.3"
     "@storybook/theming" "7.2.3"
     "@storybook/types" "7.2.3"
+    lodash "^4.17.21"
+    ts-dedent "^2.0.0"
+
+"@storybook/addon-controls@^7.4.0":
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-controls/-/addon-controls-7.4.0.tgz#b212d60fd74d69f6b63c53e4d52ab6c77ee51247"
+  integrity sha512-tYDfqpTR+c9y4kElmr3aWNHPot6kYd+nruYb697LpkCdy4lFErqSo0mhvPyZfMZp2KEajfp6YJAurhQWbvbj/A==
+  dependencies:
+    "@storybook/blocks" "7.4.0"
+    "@storybook/client-logger" "7.4.0"
+    "@storybook/components" "7.4.0"
+    "@storybook/core-common" "7.4.0"
+    "@storybook/core-events" "7.4.0"
+    "@storybook/manager-api" "7.4.0"
+    "@storybook/node-logger" "7.4.0"
+    "@storybook/preview-api" "7.4.0"
+    "@storybook/theming" "7.4.0"
+    "@storybook/types" "7.4.0"
     lodash "^4.17.21"
     ts-dedent "^2.0.0"
 
@@ -2483,6 +2501,35 @@
     polished "^4.2.2"
     react-colorful "^5.1.2"
     telejson "^7.0.3"
+    tocbot "^4.20.1"
+    ts-dedent "^2.0.0"
+    util-deprecate "^1.0.2"
+
+"@storybook/blocks@7.4.0":
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/@storybook/blocks/-/blocks-7.4.0.tgz#6a9240e2b58bac99a998c559d719be7ff4e19dcc"
+  integrity sha512-YQznNjJm+l32fCfPxrZso9+MbcyG0pWZSpx3RKI1+pxDMsAs4mbXsIw4//jKfjoDP/6/Cz/FJcSx8LT7i4BJ2w==
+  dependencies:
+    "@storybook/channels" "7.4.0"
+    "@storybook/client-logger" "7.4.0"
+    "@storybook/components" "7.4.0"
+    "@storybook/core-events" "7.4.0"
+    "@storybook/csf" "^0.1.0"
+    "@storybook/docs-tools" "7.4.0"
+    "@storybook/global" "^5.0.0"
+    "@storybook/manager-api" "7.4.0"
+    "@storybook/preview-api" "7.4.0"
+    "@storybook/theming" "7.4.0"
+    "@storybook/types" "7.4.0"
+    "@types/lodash" "^4.14.167"
+    color-convert "^2.0.1"
+    dequal "^2.0.2"
+    lodash "^4.17.21"
+    markdown-to-jsx "^7.1.8"
+    memoizerific "^1.11.3"
+    polished "^4.2.2"
+    react-colorful "^5.1.2"
+    telejson "^7.2.0"
     tocbot "^4.20.1"
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
@@ -2900,6 +2947,18 @@
     "@storybook/core-common" "7.2.3"
     "@storybook/preview-api" "7.2.3"
     "@storybook/types" "7.2.3"
+    "@types/doctrine" "^0.0.3"
+    doctrine "^3.0.0"
+    lodash "^4.17.21"
+
+"@storybook/docs-tools@7.4.0":
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/@storybook/docs-tools/-/docs-tools-7.4.0.tgz#d9109c9c8ec4e90bb24d1acfcc16834a252618eb"
+  integrity sha512-DzXmt4JorAOePoS+sjQznf8jLPI9D5mdB1eSXjfvmGBQyyehKTZv5+TXuxYvT3iPN4rW4OPrIrQCSIrbULFdwA==
+  dependencies:
+    "@storybook/core-common" "7.4.0"
+    "@storybook/preview-api" "7.4.0"
+    "@storybook/types" "7.4.0"
     "@types/doctrine" "^0.0.3"
     doctrine "^3.0.0"
     lodash "^4.17.21"
