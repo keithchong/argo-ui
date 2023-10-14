@@ -115,7 +115,7 @@
         "sass-loader": "^v13.3.2",
         "source-map-loader": "^4.0.1",
         "storybook": "^7.4.5",
-        "style-loader": "^2.0.0",
+        "style-loader": "^3.3.3",
         "ts-jest": "^26.5.6",
         "ts-loader": "^9.5.0",
         "ts-node": "^10.9.1",
