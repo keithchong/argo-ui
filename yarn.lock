@@ -2332,21 +2332,21 @@
     lodash "^4.17.21"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-controls@^7.4.6":
-  version "7.4.6"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-controls/-/addon-controls-7.4.6.tgz#b1db7a0faacb25b9a6f54c2dff2ba94d06619bd4"
-  integrity sha512-4lq3sycEUIsK8SUWDYc60QgF4vV9FZZ3lDr6M7j2W9bOnvGw49d2fbdlnq+bX1ZprZZ9VgglQpBAorQB3BXZRw==
+"@storybook/addon-controls@^7.5.1":
+  version "7.5.1"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-controls/-/addon-controls-7.5.1.tgz#606443cf792d98e8b2d61c94e5ffb359b253c119"
+  integrity sha512-Xag1e7TZo04LjUenfobkShpKMxTtwa4xM4bXQA8LjaAGZQ7jipbQ4PE73a17K59S2vqq89VAhkuMJWiyaOFqpw==
   dependencies:
-    "@storybook/blocks" "7.4.6"
-    "@storybook/client-logger" "7.4.6"
-    "@storybook/components" "7.4.6"
-    "@storybook/core-common" "7.4.6"
-    "@storybook/core-events" "7.4.6"
-    "@storybook/manager-api" "7.4.6"
-    "@storybook/node-logger" "7.4.6"
-    "@storybook/preview-api" "7.4.6"
-    "@storybook/theming" "7.4.6"
-    "@storybook/types" "7.4.6"
+    "@storybook/blocks" "7.5.1"
+    "@storybook/client-logger" "7.5.1"
+    "@storybook/components" "7.5.1"
+    "@storybook/core-common" "7.5.1"
+    "@storybook/core-events" "7.5.1"
+    "@storybook/manager-api" "7.5.1"
+    "@storybook/node-logger" "7.5.1"
+    "@storybook/preview-api" "7.5.1"
+    "@storybook/theming" "7.5.1"
+    "@storybook/types" "7.5.1"
     lodash "^4.17.21"
     ts-dedent "^2.0.0"
 
@@ -2512,22 +2512,22 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/blocks@7.4.6":
-  version "7.4.6"
-  resolved "https://registry.yarnpkg.com/@storybook/blocks/-/blocks-7.4.6.tgz#03134130fa20d6c36c6985008bc2c38892c5b8f5"
-  integrity sha512-HxBSAeOiTZW2jbHQlo1upRWFgoMsaAyKijUFf5MwwMNIesXCuuTGZDJ3xTABwAVLK2qC9Ektfbo0CZCiPVuDRQ==
+"@storybook/blocks@7.5.1":
+  version "7.5.1"
+  resolved "https://registry.yarnpkg.com/@storybook/blocks/-/blocks-7.5.1.tgz#c215da2e82234a703912410c52334fbade163b48"
+  integrity sha512-7b69p6kDdgmlejEMM2mW6/Lz4OmU/R3Qr+TpKnPcV5iS7ADxRQEQCTEMoQ5RyLJf0vDRh/7Ljn/RMo8Ux3X7JA==
   dependencies:
-    "@storybook/channels" "7.4.6"
-    "@storybook/client-logger" "7.4.6"
-    "@storybook/components" "7.4.6"
-    "@storybook/core-events" "7.4.6"
+    "@storybook/channels" "7.5.1"
+    "@storybook/client-logger" "7.5.1"
+    "@storybook/components" "7.5.1"
+    "@storybook/core-events" "7.5.1"
     "@storybook/csf" "^0.1.0"
-    "@storybook/docs-tools" "7.4.6"
+    "@storybook/docs-tools" "7.5.1"
     "@storybook/global" "^5.0.0"
-    "@storybook/manager-api" "7.4.6"
-    "@storybook/preview-api" "7.4.6"
-    "@storybook/theming" "7.4.6"
-    "@storybook/types" "7.4.6"
+    "@storybook/manager-api" "7.5.1"
+    "@storybook/preview-api" "7.5.1"
+    "@storybook/theming" "7.5.1"
+    "@storybook/types" "7.5.1"
     "@types/lodash" "^4.14.167"
     color-convert "^2.0.1"
     dequal "^2.0.2"
@@ -2703,18 +2703,18 @@
     use-resize-observer "^9.1.0"
     util-deprecate "^1.0.2"
 
-"@storybook/components@7.4.6":
-  version "7.4.6"
-  resolved "https://registry.yarnpkg.com/@storybook/components/-/components-7.4.6.tgz#e804407bd3a047e9f6026edfbbe188244661b55a"
-  integrity sha512-nIRBhewAgrJJVafyCzuaLx1l+YOfvvD5dOZ0JxZsxJsefOdw1jFpUqUZ5fIpQ2moyvrR0mAUFw378rBfMdHz5Q==
+"@storybook/components@7.5.1":
+  version "7.5.1"
+  resolved "https://registry.yarnpkg.com/@storybook/components/-/components-7.5.1.tgz#677eae0e7976939434b5c391fe841ced9b66e082"
+  integrity sha512-fdzzxGBV/Fj9pYwfYL3RZsVUHeBqlfLMBP/L6mPmjaZSwHFqkaRZZUajZc57lCtI+TOy2gY6WH3cPavEtqtgLw==
   dependencies:
     "@radix-ui/react-select" "^1.2.2"
     "@radix-ui/react-toolbar" "^1.0.4"
-    "@storybook/client-logger" "7.4.6"
+    "@storybook/client-logger" "7.5.1"
     "@storybook/csf" "^0.1.0"
     "@storybook/global" "^5.0.0"
-    "@storybook/theming" "7.4.6"
-    "@storybook/types" "7.4.6"
+    "@storybook/theming" "7.5.1"
+    "@storybook/types" "7.5.1"
     memoizerific "^1.11.3"
     use-resize-observer "^9.1.0"
     util-deprecate "^1.0.2"
@@ -2952,6 +2952,18 @@
     "@storybook/core-common" "7.4.6"
     "@storybook/preview-api" "7.4.6"
     "@storybook/types" "7.4.6"
+    "@types/doctrine" "^0.0.3"
+    doctrine "^3.0.0"
+    lodash "^4.17.21"
+
+"@storybook/docs-tools@7.5.1":
+  version "7.5.1"
+  resolved "https://registry.yarnpkg.com/@storybook/docs-tools/-/docs-tools-7.5.1.tgz#a1266314e64929498d3c41483ac9794cf3707102"
+  integrity sha512-tDtQGeKU5Kc2XoqZ5vpeGQrOkRg2UoDiSRS6cLy+M/sMB03Annq0ZngnJXaMiv0DLi2zpWSgWqPgYA3TJTZHBw==
+  dependencies:
+    "@storybook/core-common" "7.5.1"
+    "@storybook/preview-api" "7.5.1"
+    "@storybook/types" "7.5.1"
     "@types/doctrine" "^0.0.3"
     doctrine "^3.0.0"
     lodash "^4.17.21"
