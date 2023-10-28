@@ -63,7 +63,7 @@
         "@testing-library/user-event": "^14.4.3",
         "@types/chai": "^4.3.6",
         "@types/classnames": "^2.3.1",
-        "@types/deep-equal": "^1.0.2",
+        "@types/deep-equal": "^1.0.3",
         "@types/enzyme": "^3.10.13",
         "@types/enzyme-adapter-react-16": "^1.0.6",
         "@types/history": "^4.7.8",
