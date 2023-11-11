@@ -3987,10 +3987,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/yamljs@^0.2.32":
-  version "0.2.32"
-  resolved "https://registry.yarnpkg.com/@types/yamljs/-/yamljs-0.2.32.tgz#2e1cf7badce713a9ef258810093223fa30bb9e1e"
-  integrity sha512-KeVUr9iOPxHfzB3kWtwMj2RyMGhgLt5rCLKQ63t5TGgAkn2KDI+NccoPki3jwE5fks+ywbqiDfotYgcQH5mvgg==
+"@types/yamljs@^0.2.34":
+  version "0.2.34"
+  resolved "https://registry.yarnpkg.com/@types/yamljs/-/yamljs-0.2.34.tgz#c10b1f31b173f2cc93342f27b0796c2eb5b3ae84"
+  integrity sha512-gJvfRlv9ErxdOv7ux7UsJVePtX54NAvQyd8ncoiFqK8G5aeHIfQfGH2fbruvjAQ9657HwAaO54waS+Dsk2QTUQ==
 
 "@types/yargs-parser@*":
   version "15.0.0"
