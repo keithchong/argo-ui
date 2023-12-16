@@ -2275,7 +2275,19 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@storybook/addon-actions@*", "@storybook/addon-actions@7.5.3", "@storybook/addon-actions@^7.4.0":
+"@storybook/addon-actions@*", "@storybook/addon-actions@^7.6.5":
+  version "7.6.5"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-7.6.5.tgz#276ed222cc038423cd5ee80441f88544a2663311"
+  integrity sha512-lW/m9YcaNfBZk+TZLxyzHdd563mBWpsUIveOKYjcPdl/q0FblWWZrRsFHqwLK1ldZ4AZXs8J/47G8CBr6Ew2uQ==
+  dependencies:
+    "@storybook/core-events" "7.6.5"
+    "@storybook/global" "^5.0.0"
+    "@types/uuid" "^9.0.1"
+    dequal "^2.0.2"
+    polished "^4.2.2"
+    uuid "^9.0.0"
+
+"@storybook/addon-actions@7.5.3":
   version "7.5.3"
   resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-7.5.3.tgz#e0d0d819488d1d19918b23469b3ea6610fee5f07"
   integrity sha512-v3yL6Eq/jCiXfA24JjRdbEQUuorms6tmrywaKcd1tAy4Ftgof0KHB4tTcTyiajrI5bh6PVJoRBkE8IDqmNAHkA==
@@ -2822,6 +2834,13 @@
   version "7.6.4"
   resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-7.6.4.tgz#55405545dbc9ae5715654d2198ee1f1a3cc34ef7"
   integrity sha512-i3xzcJ19ILSy4oJL5Dz9y0IlyApynn5RsGhAMIsW+mcfri+hGfeakq1stNCo0o7jW4Y3A7oluFTtIoK8DOxQdQ==
+  dependencies:
+    ts-dedent "^2.0.0"
+
+"@storybook/core-events@7.6.5":
+  version "7.6.5"
+  resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-7.6.5.tgz#bcac8a2625c1f63d290d4ca0b70bb7a953939750"
+  integrity sha512-zk2q/qicYXAzHA4oV3GDbIql+Kd4TOHUgDE8e4jPCOPp856z2ScqEKUAbiJizs6eEJOH4nW9Db1kuzgrBVEykQ==
   dependencies:
     ts-dedent "^2.0.0"
 
@@ -3760,7 +3779,7 @@
   resolved "https://registry.yarnpkg.com/@types/unist/-/unist-2.0.6.tgz#250a7b16c3b91f672a24552ec64678eeb1d3a08d"
   integrity sha512-PBjIUxZHOuj0R15/xuwJYjFi+KZdNFrehocChv4g5hu6aFroHue8m0lBP0POdK2nKzbw0cgV1mws8+V/JAcEkQ==
 
-"@types/uuid@^9.0.7":
+"@types/uuid@^9.0.1", "@types/uuid@^9.0.7":
   version "9.0.7"
   resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-9.0.7.tgz#b14cebc75455eeeb160d5fe23c2fcc0c64f724d8"
   integrity sha512-WUtIVRUZ9i5dYXefDEAI7sh9/O7jGvHg7Df/5O/gtH3Yabe5odI3UWopVR1qbPXQtvOxWu3mM4XxlYeZtMWF4g==
