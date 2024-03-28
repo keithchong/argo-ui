@@ -9,6 +9,9 @@ import { v1 as uuid } from 'uuid';
 require('./form-field.scss');
 
 export function getNestedField(src: any, path: string): any {
+    if (path.includes('[') && path.includes('].')) {
+        path = path.replace('[','.').replace('].','.');
+    }
     const parts = path.split('.');
     while (parts.length > 0 && src) {
         src = src[parts.splice(0, 1)[0]];
